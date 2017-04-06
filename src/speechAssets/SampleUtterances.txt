@@ -1,0 +1,4 @@
+GetNewFactIntent what alerts are there
+GetNewFactIntent are there any alerts
+GetNewFactIntent severe alerts
+GetNewFactIntent any alerts
