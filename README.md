@@ -28,4 +28,4 @@ Here is how it works:
 
 *Voice Messaging*
 
-[![](http://img.youtube.com/vi/rSSIXsAanvs/0.jpg)](https://www.youtube.com/watch?v=rSSIXsAanvs)
+<!--- [![](http://img.youtube.com/vi/rSSIXsAanvs/0.jpg)](https://www.youtube.com/watch?v=rSSIXsAanvs) -->
