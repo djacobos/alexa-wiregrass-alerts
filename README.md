@@ -26,6 +26,6 @@ Here is how it works:
 
 **Demo Video Coming Soon**
 
-*Voice Messaging*
+<!---*Voice Messaging*-->
 
 <!--- [![](http://img.youtube.com/vi/rSSIXsAanvs/0.jpg)](https://www.youtube.com/watch?v=rSSIXsAanvs) -->
